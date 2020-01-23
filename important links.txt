@@ -9,3 +9,20 @@
 [1:01 PM, 1/23/2020] Muhammad Moeez: https://github.com/login?client_id=78a2ba87f071c28e65bb&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D78a2ba87f071c28e65bb%26redirect_uri%3Dhttps%253A%252F%252Fcircleci.com%252Fauth%252Fgithub%253Freturn-to%253D%25252F%26scope%3Drepo%252Cuser%253Aemail%26state%3DFvBWauviaK1ZE0pUP8twH6O2GclJq2lwiEHvMWri06FVhuoAmQjS4pObBlhFhYBRn9XRd9eRl4bLQ3N2
 [1:01 PM, 1/23/2020] Muhammad Moeez: link to create github account
 -----------------------------------------------------------------------------------------------------------------------------
+instruction
+
+1-first download git by second command
+2-create github account by last link
+3-open git that you download
+4-write command (cd desktop) to come into desktop
+5-now where you want to make folder for storing all the code just write command (cd  "path where you want")
+6-make new directory if you want by command (mkdir "directory name")
+7-open repository which you want to clone click clone button right side then copy file path which show in input field
+8-come to git command line which you already opened in instruction 3
+9-write command(git clone "path that you copy")
+10-write these commands one by one 
+a- git config --global user.email "your email what ever you have"
+b- git config --global user.name "your username what you have"
+11-for add new file in repository command(git add)
+then (git commit -m"what you want to give file name in quotes") then (git push) 
+12- this command tell you what things you dont add in repository command (git status)
