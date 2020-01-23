@@ -1,0 +1,11 @@
+[12:47 PM, 1/23/2020] Muhammad Moeez: https://www.youtube.com/watch?v=MAkda5HOUyA&list=PL8p2I9GklV45Tu4pd2gySzbxUjp18q85T&index=1
+[12:47 PM, 1/23/2020] Muhammad Moeez: knowledge about git
+[12:47 PM, 1/23/2020] Muhammad Moeez: how to use
+[12:47 PM, 1/23/2020] Muhammad Moeez: how to share your source code with other
+-----------------------------------------------------------------------------------------------------------------------------
+[12:52 PM, 1/23/2020] Muhammad Moeez: https://git-scm.com/download/win
+[12:52 PM, 1/23/2020] Muhammad Moeez: link for download git
+-----------------------------------------------------------------------------------------------------------------------------
+[1:01 PM, 1/23/2020] Muhammad Moeez: https://github.com/login?client_id=78a2ba87f071c28e65bb&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D78a2ba87f071c28e65bb%26redirect_uri%3Dhttps%253A%252F%252Fcircleci.com%252Fauth%252Fgithub%253Freturn-to%253D%25252F%26scope%3Drepo%252Cuser%253Aemail%26state%3DFvBWauviaK1ZE0pUP8twH6O2GclJq2lwiEHvMWri06FVhuoAmQjS4pObBlhFhYBRn9XRd9eRl4bLQ3N2
+[1:01 PM, 1/23/2020] Muhammad Moeez: link to create github account
+-----------------------------------------------------------------------------------------------------------------------------
